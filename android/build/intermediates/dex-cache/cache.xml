@@ -2,60 +2,18 @@
 <items version="2" >
 
     <item
-        jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-514efd46b2d41cdc3f8ba8fa390d0eea1ae1cb38.jar" />
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/pre-dexed/debug/classes-48eee564f1057254f630e30c9bfbb832bb2e5c98.jar" />
     </item>
     <item
-        jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jar="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.16.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="129874135e6081269ace2312092031558865de12">
-        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-f7d5be37c49d7d266d78c835afe531d1d13e3439.jar" />
-    </item>
-    <item
-        jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-f6d711bfb767312b3efb67829f3b1a1c774897fc.jar" />
-    </item>
-    <item
-        jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
-        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-b144faf133775deb3ffb11b89e32b69af272b65c.jar" />
-    </item>
-    <item
-        jar="/Users/tqun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-43f381fbc7234e8829479d1cd6ce17ba2d4be63e.jar" />
-    </item>
-    <item
-        jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
-        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/stetho-1.2.0-38f447f159d2e0a715a2b1d3c865f2e2155853fe.jar" />
-    </item>
-    <item
-        jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-c813ea45750de7618074f81a232b17216e7577cd.jar" />
-    </item>
-    <item
-        jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/classes-680ac16721376887479f6942ccacfdcbd8f28316.jar" />
+        sha1="2dd02caf55fbc3b55c9e0abbe9535c1295bf60f7">
+        <dex dex="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/pre-dexed/debug/classes-c5cd112f593b4e5451e2b1894957727ac44dac79.jar" />
     </item>
     <item
         jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
@@ -65,81 +23,11 @@
         <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/classes-6e6db291afa2b33f682ed2b1dedf01890f94b6e7.jar" />
     </item>
     <item
-        jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
-        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/commons-cli-1.2-71ad54547b55b120ff9e5859bd23410e3dd5f11d.jar" />
-    </item>
-    <item
-        jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
-        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/classes-b10112883722b82082c0d7fe1d82719d0f9009df.jar" />
-    </item>
-    <item
-        jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
-        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-68187818458e6fe8e06218cc220f77a304b95e0f.jar" />
-    </item>
-    <item
-        jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
-        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/classes-7b80cccf30789890026065a4d5a0efad5f9a5649.jar" />
-    </item>
-    <item
-        jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
-        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-a3ab89dc4211641d509b0496c6b44db1b766b391.jar" />
-    </item>
-    <item
-        jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.16.1/jars/libs/infer-annotations-1.5.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="0b5e946b76cdb1f00b18f2981e7d997141a66c9f">
-        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-977d5b40c21247d6b61d1a7d74af81e2ae055599.jar" />
-    </item>
-    <item
         jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
         <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/classes-dd85f1e71e24806845cb196761bf3bca3f6ebe08.jar" />
-    </item>
-    <item
-        jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="845a5b3a624946b2068963ba656c117fc453701c">
-        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/classes-a2a01837ea6a5cc0c43f579d1592f6bc304c309a.jar" />
-    </item>
-    <item
-        jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
-        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0-294a23f6b7d70faaeeafa330c39361a50aa3219f.jar" />
-    </item>
-    <item
-        jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
-        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/classes-393791ed64862866ca59afffa700b31e5e4dcb5f.jar" />
-    </item>
-    <item
-        jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
-        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/classes-aed8b350868884b8c1a1433c8e4f0060b31aac33.jar" />
     </item>
     <item
         jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.16.1/jars/classes.jar"
@@ -149,11 +37,200 @@
         <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/classes-e5ab6e21a7267f3bc046a6c3388fa695a6b66924.jar" />
     </item>
     <item
+        jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/stetho-1.2.0-38f447f159d2e0a715a2b1d3c865f2e2155853fe.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/pre-dexed/debug/classes-7fb856f2ea5c85326da7c5e85072f44a8c0267e5.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/classes-7b80cccf30789890026065a4d5a0efad5f9a5649.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/pre-dexed/debug/classes-6920e36cdb0283b8c58aaebe7e69a118029c8d54.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-a3ab89dc4211641d509b0496c6b44db1b766b391.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/classes-a2a01837ea6a5cc0c43f579d1592f6bc304c309a.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-b573885df0ce17d62a194b918f8abefac598fe1f.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/classes-680ac16721376887479f6942ccacfdcbd8f28316.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-f6d711bfb767312b3efb67829f3b1a1c774897fc.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/pre-dexed/debug/classes-abb4b932f5ed784e19c30274525d3637069085f4.jar" />
+    </item>
+    <item
         jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
         <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-b39a81418ba2b8b0213996ca9d4ceee269cd9c9d.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-68187818458e6fe8e06218cc220f77a304b95e0f.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/classes-aed8b350868884b8c1a1433c8e4f0060b31aac33.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/pre-dexed/debug/classes-60de828c9957885742826f50c61bc5599c5ca153.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/pre-dexed/debug/classes-8c2c04bc022dbac58baf8f82aad1db3b5f8ac65a.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/classes-b10112883722b82082c0d7fe1d82719d0f9009df.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.16.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0b5e946b76cdb1f00b18f2981e7d997141a66c9f">
+        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-977d5b40c21247d6b61d1a7d74af81e2ae055599.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-c813ea45750de7618074f81a232b17216e7577cd.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/commons-cli-1.2-71ad54547b55b120ff9e5859bd23410e3dd5f11d.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/classes-393791ed64862866ca59afffa700b31e5e4dcb5f.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0-294a23f6b7d70faaeeafa330c39361a50aa3219f.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-43f381fbc7234e8829479d1cd6ce17ba2d4be63e.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.16.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0b5e946b76cdb1f00b18f2981e7d997141a66c9f">
+        <dex dex="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-b865703e8f57a699393e6c0491bbcaf2ba6a27e3.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/pre-dexed/debug/classes-f3793575b3c3dbba53262793dd43901056303a77.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/tqun/Desktop/react/react-native/hoho/hohopost/android/app/build/intermediates/pre-dexed/debug/classes-cedf199fc5268f9f04a6642e5d27af4850861a85.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-514efd46b2d41cdc3f8ba8fa390d0eea1ae1cb38.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-b144faf133775deb3ffb11b89e32b69af272b65c.jar" />
+    </item>
+    <item
+        jar="/Users/tqun/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/tqun/Desktop/react/react-native/Hohopost/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-f7d5be37c49d7d266d78c835afe531d1d13e3439.jar" />
     </item>
 
 </items>

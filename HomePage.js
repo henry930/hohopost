@@ -26,13 +26,13 @@ var styles = StyleSheet.create({
     	marginTop:5,
     	marginBottom:5
     },
-    container:{
+    view_container:{
     	top:50,
     	marginTop:20,
     	paddingLeft:10,
-    	paddingRight:10,
-    	marginBottom:20,
-    	flexDirection:'column',
+    	paddingRight:10, 
+    	marginBottom:20, 
+    	flexDirection:'column', 
     	overflow:'visible'
     },
     user_container:{
@@ -73,7 +73,7 @@ var styles = StyleSheet.create({
     	backgroundColor:'white',
     	marginTop:0,
     	marginBottom:0,
-    	textAlign:'center',
+    	
     	flexDirection:'column'
     	
    	},
@@ -142,11 +142,9 @@ var styles = StyleSheet.create({
     	backgroundColor:'transparent',
     	margin:5
     },
-    comment_header:{
+    view_comment_header:{
     	paddingTop:10,
     	paddingLeft:20,
-    	fontSize:20,
-    	color:'black'
     },
     comment_row:{
     	flex:1,
@@ -158,7 +156,7 @@ var styles = StyleSheet.create({
     },
     comment_row_text:{
     	backgroundColor:'#6dcff6',
-    	color:'white',
+    	
     	padding:5
     },
     comment_write:{
@@ -181,47 +179,47 @@ class HomePage extends Component {
           navigator={this.props.navigator}
           navigationBar={
             <Navigator.NavigationBar style={{backgroundColor: 'grey'}}
-                routeMapper={NavigationBarRouteMapper} />
+                routeMapper={NavigationBarRouteMapper }/>
           } />
     );
   }
   renderScene(route,navigator) {
          return (
 
-    	<View style={styles.container}>
+    	<View style={styles.view_container}>
     		<View style={styles.user_container}>
-    			<View style={styles.user_photo}><Image source={require("./user_profile.png")} /></View> 
+    			<View style={styles.user_photo}><Image source={require("./images/user_profile.png")} /></View> 
     			<Text style={styles.user_name}>Henry Yeung</Text>
-    			<View style={styles.award}><Image source={require('./award.png')}/></View>
+    			<View style={styles.award}><Image source={require('./images/award.png')}/></View>
 
     		</View>
     		<View style={styles.keyword_container}>
     			
     		</View>
     		<View style={styles.photo_container}>
-	    		<View style={styles.photo}><Image source={require('./product_photo.png')} /></View>
+	    		<View style={styles.photo}><Image source={require('./images/product_photo.png')} /></View>
 	    		<View style={styles.price_text}>
 	    			<Text style={styles.price}>$10,000</Text>
 	    		</View>
 	    	</View>
     		<View style={styles.content}>
     			<View style={styles.button}>
-    				<View style={styles.heart_button}><Image source={require('./heart_button.png')} /></View>
-    				<View style={styles.comment_button}><Image source={require('./comment_button.png')} /></View>
-    				<View style={styles.message_button}><Image  source={require('./message_button.png')}/></View>
-	    			<View style={styles.bookmark}><Image  source={require('./bookmarked.png')}/></View> 				
+    				<View style={styles.heart_button}><Image source={require('./images/heart_button.png')} /></View>
+    				<View style={styles.comment_button}><Image source={require('./images/comment_button.png')} /></View>
+    				<View style={styles.message_button}><Image  source={require('./images/message_button.png')}/></View>
+	    			<View style={styles.bookmark}><Image  source={require('./images/bookmarked.png')}/></View> 				
     			</View>
     			<View style={styles.like_no}>
-	    			<View style={styles.likers}><Image source={require('./likers.png')}/></View>
+	    			<View style={styles.likers}><Image source={require('./images/likers.png')}/></View>
 	    			<Text style={styles.nolike}>50個讚好</Text>
 	    		</View>
 				<Text style={styles.text}>Hello
 				</Text>    			
     		</View>
     		<View style={styles.comment}>
-    			<View style={styles.comment_header}><Text style={styles.comment_header_text}>評論</Text></View>
+    			<View style={styles.view_comment_header}><Text style={styles.comment_header_text}>評論</Text></View>
     			<View style={styles.comment_row}>
-    				<View style={styles.user_photo}><Image source={require('./user_profile.png')}/></View>
+    				<View style={styles.user_photo}><Image source={require('./images/user_profile.png')}/></View>
     				<View style={styles.comment_box}>
 	    				<Text style={styles.comment_user_name}>Henry Yeung</Text>
 	    				<View style={styles.comment_row_text}><Text style={{color:'white'}}>很美!</Text></View>
@@ -269,10 +267,13 @@ class HomePage extends Component {
    } 
 }
 
+
+
 var NavigationBarRouteMapper = {
+
   LeftButton(route, navigator, index, navState) {
     return (
-      <TouchableOpacity style={{flex: 1, justifyContent: 'center'}}
+      <TouchableOpacity style={{flex: 5, justifyContent: 'center'}}
           onPress={() => navigator.parentNavigator.pop()}>
         <Text style={{color: 'white', margin: 10}}>
           返回
@@ -285,14 +286,43 @@ var NavigationBarRouteMapper = {
   },
   Title(route, navigator, index, navState) {
     return (
-    	
-      <TouchableOpacity style={{flex: 3, flexDirection:'row',justifyContent: 'center'}}>
-            <Image  style={styles.image}  source={require("./home.png")} />
-            <Image  style={styles.image}  source={require("./grid.png")} />
-            <Image  style={styles.image}  source={require("./search.png")} />                        
-            <Image  style={styles.image}  source={require("./mail.png")} />
-            <Image  style={styles.image}  source={require("./profile.png")} />                        
-      </TouchableOpacity>
+      <View style={{ flexDirection:'row',justifyContent:'center', paddingTop:5,alignSelf:'flex-end' }}>
+        <TouchableOpacity style={{flex: 3, flexDirection:'column',justifyContent: 'center'}} 
+          onPress={()=>navigator.parentNavigator.push({
+                          id: 'HomePage',
+                          name: '最新二手物品',
+                        })} >
+              <Image  style={styles.image}  source={require("./images/home.png")} ></Image>
+        </TouchableOpacity>
+        <TouchableOpacity style={{flex: 3, flexDirection:'column',justifyContent: 'center'}}
+          onPress={()=>navigator.parentNavigator.push({
+                          id: 'PersonPage',
+                          name: '我的最愛',
+                        })}>
+            <Image  style={styles.image}  source={require("./images/grid.png")} />
+        </TouchableOpacity>
+        <TouchableOpacity style={{flex: 3, flexDirection:'column',justifyContent: 'center'}} 
+          onPress={()=>navigator.parentNavigator.push({
+                          id: 'SearchPage',
+                          name: '搜尋',
+                        })}>
+           <Image  style={styles.image}  source={require("./images/search.png")} /> 
+        </TouchableOpacity>
+        <TouchableOpacity style={{flex: 3, flexDirection:'column',justifyContent: 'center'}} 
+          onPress={()=>navigator.parentNavigator.push({
+                          id: 'InboxPage',
+                          name: '通訊',
+                        })}>
+            <Image  style={styles.image}  source={require("./images/mail.png")} />
+        </TouchableOpacity>
+        <TouchableOpacity style={{flex: 3, flexDirection:'column',justifyContent: 'center'}} 
+          onPress={()=>navigator.parentNavigator.push({
+                          id: 'ProfilePage',
+                          name: '個人主頁',
+                        })}>
+            <Image  style={styles.image}  source={require("./images/profile.png")} /> 
+        </TouchableOpacity> 
+      </View>  
     );
   }
 };

@@ -9,7 +9,7 @@ var {
   TouchableOpacity,
 } = React;
 
-class NoNavigatorPage extends Component {
+class PorfilePage extends Component {
   render() {
     var navigator = this.props.navigator;
     return (
@@ -23,4 +23,4 @@ class NoNavigatorPage extends Component {
   }
 }
 
-module.exports = NoNavigatorPage;
+module.exports = PorfilePage;

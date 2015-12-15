@@ -28,8 +28,8 @@ var styles = StyleSheet.create({
     	top:50,
     	backgroundColor:'transparent'
     },
-    description:{
-    	alignSelf:'center',
+    text_description:{
+    	textAlign:  'center',
     	top:100,
     	color:'#00549f',
     	fontSize:30
@@ -90,11 +90,12 @@ var styles = StyleSheet.create({
     	padding:5,
     	borderRadius:5
     },
-    buttonText:{
+    text_buttonText:{
+        textAlign:  'center',
     	fontSize:18,
     	color:'white',
     	lineHeight:24,
-    	textAlign:'center'
+    	
     }
     
 });
@@ -106,18 +107,18 @@ class Signin extends Component {
 	state:{text:'Hello'}
 	TitleInput(event) {
         this.setState({ Title: event.nativeEvent.text });
-   }
-   CodeInput(event){
+    }
+    CodeInput(event){
    		this.setState({code: event.nativeEvent.text});
-   }
-   buttonClicked(event){
-    console.log('button clicked');
-  	}
+    }
+    buttonClicked(event){
+        console.log('button clicked');
+    }
     render() {
         return (
             <View style={styles.container}>
                 <Image style={styles.image} source={require("./logo.png")} />
-                <Text style={styles.description}>登入</Text>
+                <Text style={styles.text_description}>登入</Text>
 				<TextInput style={styles.searchInput}  onChange={this.TitleInput.bind(this)} placeholder={phone}/>
 				<View style={styles.seperator}></View>     
 				<TextInput style={styles.searchInput2}  onChange={this.CodeInput.bind(this)} placeholder={auth}/>		
@@ -125,15 +126,15 @@ class Signin extends Component {
 			     <TouchableHighlight
 			        style={styles.button}
 		            onPress={this.gotoNext.bind(this)}>
-			          <Text style={styles.buttonText}>驗證</Text>
+			          <Text style={styles.text_buttonText}>驗證</Text>
 			      </TouchableHighlight>        				
 			</View>
         );
     }
- 	   gotoNext() {
-		    this.props.navigator.push({
-		      id: 'HomePage',
-		      name: '主頁',
+ 	gotoNext() {
+		this.props.navigator.push({
+		id: 'HomePage',
+		name: '主頁',
     });
   }
 
